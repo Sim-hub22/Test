@@ -10,10 +10,11 @@ public class Main {
     }
 
     public void walk(){
-        
+
     }
     public static void main(String[] args) {
         System.out.println("Hello, World!");
+        System.out.println("New Feature Added");
         Main m = new Main();
         m.run();
     }
