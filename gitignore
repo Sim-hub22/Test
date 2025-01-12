@@ -1,0 +1,15 @@
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore IDE-specific files (e.g., for IntelliJ IDEA, Eclipse)
+.idea/
+.vscode/
+*.iml
+
+# Ignore Maven or Gradle build directories
+target/
+build/
+

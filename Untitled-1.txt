@@ -1,0 +1,13 @@
+/**
+ * Adds two integer numbers and returns their sum.
+ *
+ * <p>This method takes two integers as input, computes their sum, 
+ * and returns the result.</p>
+ *
+ * @param num1 the first integer to be added
+ * @param num2 the second integer to be added
+ * @return the sum of {@code num1} and {@code num2}
+ */
+public int addNumbers(int num1, int num2) {
+    return num1 + num2;
+}
